@@ -1,0 +1,42 @@
+Chapter 2
+# - used for commenting in python, diable the line.
+
+Chapter 5
+format strings: %s, %d, %r
+
+Chapter 7
+joining strings with and without spaces
+
+Chapter 8
+True and False Bolean Values - doesn't need quotes
+
+Chapter 9
+/n - newline command
+""" quotes to set off several lines of text
+
+Chapter 10
+\\ - escape a backslash
+\' - escape a single quote
+\" - escape a double quote
+\r - carriage return within a string
+\t - carriage tab within a string
+
+Chapter 11
+raw_input() - get input (typed) from the user.
+
+Chapter 12
+raw_input("Prompt text")
+pydoc - documentation for python
+
+Chapter 13
+import - bring addtional features into python
+argv - the argument variables
+
+Chapter 15
+open - makes a file available
+read - reads the content of a file
+close - close the file to make it unavailable
+
+Chapter 17
+os.path - adapts the file directory
+exists - determine if a specific file exists, returns true or false.
